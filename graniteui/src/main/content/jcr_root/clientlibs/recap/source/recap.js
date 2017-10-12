@@ -29,7 +29,7 @@
  *
  */
 _g.recap = (function() {
-    var recapPath = "/libs/recap/content/recap";
+    var recapPath = "/apps/recap/content/recap";
     var contextPath = "";
     if (typeof CQURLInfo != 'undefined') {
         contextPath = CQURLInfo.contextPath || contextPath;

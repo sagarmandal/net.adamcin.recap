@@ -27,9 +27,9 @@
   -->
 
 <workspaceFilter vesion="1.0">
-	<filter root="/libs/recap">
-		<include pattern="/libs/recap(/.*)?" />
-		<exclude pattern="/libs/recap/install(/.*)?" />
+	<filter root="/apps/recap">
+		<include pattern="/apps/recap(/.*)?" />
+		<exclude pattern="/apps/recap/install(/.*)?" />
         <exclude pattern="^.*/rep:accessControl" />
 	</filter>
 </workspaceFilter>

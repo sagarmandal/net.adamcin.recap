@@ -178,7 +178,7 @@
                     <artifactId>vltpack-maven-plugin</artifactId>
                     <version>1.3.0</version>
                     <configuration>
-                        <bundleInstallPath>/libs/recap/install</bundleInstallPath>
+                        <bundleInstallPath>/apps/recap/install</bundleInstallPath>
                     </configuration>
                 </plugin>
             </plugins>
